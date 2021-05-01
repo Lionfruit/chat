@@ -52,12 +52,12 @@ export default function Home() {
         }
 
         footer {
-          display: flex;
+          display: none;
           justify-content: center;
           align-items: center;
           flex-wrap: wrap;
-          width: 100vw;
-          height: 100px;
+          width: 0px;
+          height: 0px;
         }
 
         .logo {
