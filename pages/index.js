@@ -22,7 +22,6 @@ export default function Home() {
       <style jsx>{`
         .container {
           display: grid;
-          grid-template-rows: 1fr 100px;
           min-height: 100vh;
           background-color: #000000;
         }
